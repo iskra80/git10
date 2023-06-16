@@ -1,5 +1,6 @@
 public class Hello {
 
-static void main () {
-
+	public static void main (String[] args) {
+		System.out.println("Hello Git 연습");
+	}
 }
