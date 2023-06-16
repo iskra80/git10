@@ -1,1 +1,5 @@
-public class java {
+public class Hello {
+
+static void main () {
+
+}
